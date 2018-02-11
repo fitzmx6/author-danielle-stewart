@@ -1,0 +1,1463 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"a",
+				"anim	animation"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"order",
+				"order_form"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"se",
+				"secondary_nav"
+			],
+			[
+				"sec",
+				"header_secondary"
+			],
+			[
+				"slides",
+				"slidesjs-container"
+			],
+			[
+				"slide",
+				"slidesjs-container"
+			],
+			[
+				"swoosh",
+				"swooshSound"
+			],
+			[
+				"coin",
+				"coin_1"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"header",
+				"header_info"
+			],
+			[
+				"boiler",
+				"boiler	boiler"
+			],
+			[
+				"element",
+				"elementID"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"margin",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "daniellestewart.com/header.php",
+			"settings":
+			{
+				"buffer_size": 5077,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "daniellestewart.com/index.php",
+			"settings":
+			{
+				"buffer_size": 5626,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "daniellestewart.com/books.php",
+			"settings":
+			{
+				"buffer_size": 1485,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "daniellestewart.com/book-piper-anderson.php",
+			"settings":
+			{
+				"buffer_size": 12117,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "daniellestewart.com/book-clover.php",
+			"settings":
+			{
+				"buffer_size": 3111,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "daniellestewart.com/_assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 25746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "daniellestewart.com/about.php",
+			"settings":
+			{
+				"buffer_size": 4887,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Theme",
+				"Snippet: <?php echo htmlentities(…) ?>"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"jquer",
+				"Snippet: google-jquery"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"cleat",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"boiler",
+				"Snippet: boiler"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"Set Syntax: ColdFusion Markup"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/_assets/img/facicon.png",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/_assets/img/slides/slide_ny.jpg",
+		"/Users/fitzmx6/Documents/Web Sites/briandartistry.com/header.php",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/books.php",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/trailers.php",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/book-clover.php",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/header.php",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/about.php",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/_assets/css/style.css",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/contact.php",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/book-piper-anderson.php",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/index.php",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/_assets/css/flexslider.css",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/footer.php",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/_assets/js/jquery-1.11.js",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/simple-form.html",
+		"/Users/fitzmx6/Documents/Web Sites/briandartistry.com/contact.php",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/trailors.php",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/_assets/js/main.js",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/_assets/css/jquery.bxslider.css",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/_assets/js/jquery.bxslider.js",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/sftp-config.json",
+		"/Users/fitzmx6/Desktop/luxottica/index.html",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart Website/daniellestewart.com/header.html",
+		"/Users/fitzmx6/Documents/Web Sites/Danielle Stewart/header.php",
+		"/Users/fitzmx6/Desktop/Shady Acers/assets/css/style.scss",
+		"/Applications/MAMP/htdocs/curaspan/assets/js/jquery.bxslider.js",
+		"/Applications/MAMP/htdocs/curaspan/assets/css/jquery.bxslider.css",
+		"/Applications/MAMP/htdocs/curaspan/assets/css/style.css",
+		"/Applications/MAMP/htdocs/curaspan/index.html",
+		"/Applications/MAMP/htdocs/curaspan/style.css",
+		"/Users/fitzmx6/Desktop/curaspan/style.css",
+		"/Users/fitzmx6/Desktop/curaspan/index.html",
+		"/Users/fitzmx6/Desktop/Cramer Email/cramer_email.html",
+		"/Users/fitzmx6/Desktop/Cramer Email/NEC-Launch-Email-7.8.13 (1).html",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/a1a7fa00-e1dd-4359-bef8-6aad1f1eb9cf/var/www/html/telements/work/index.cfm",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/rpseffectonline.com/index.html",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/wp-content/themes/portfolio/style.css",
+		"/Users/fitzmx6/Desktop/style.css",
+		"/Users/fitzmx6/Desktop/index.cfm",
+		"/Users/fitzmx6/Desktop/header.cfm",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/a1a7fa00-e1dd-4359-bef8-6aad1f1eb9cf/var/www/html/telements/styles/style.css",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/santapaulri.dev/style.css",
+		"/Users/fitzmx6/Documents/Web Sites/Compass/RPS Assets/stylesheets/screen.css",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/santapaulri.dev/common/header.php",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/a1a7fa00-e1dd-4359-bef8-6aad1f1eb9cf/var/www/html/telements/index.cfm",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/a1a7fa00-e1dd-4359-bef8-6aad1f1eb9cf/var/www/html/telements/services/index.cfm",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/a1a7fa00-e1dd-4359-bef8-6aad1f1eb9cf/var/www/html/telements/includes/header.cfm",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/a1a7fa00-e1dd-4359-bef8-6aad1f1eb9cf/var/www/html/telements/includes/secondary_nav.cfm",
+		"/Users/fitzmx6/Documents/Web Sites/rpseffectonline.com/js/jquery.scrollorama.js",
+		"/Users/fitzmx6/Documents/Art:Web/Web add-ons/johnpolacek-scrollorama-55261f7/README.md",
+		"/Users/fitzmx6/Documents/Web Sites/rpseffectonline.com/css/style.css",
+		"/Users/fitzmx6/Documents/Web Sites/rpseffectonline.com/index.html",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/rpseffectonline.com/css/style.css",
+		"/Users/fitzmx6/Documents/Web Sites/rpseffectonline.com/css/idangerous.swiper-2.css",
+		"/Users/fitzmx6/Documents/Web Sites/rpseffectonline.com/idangerous.swiper-2.js",
+		"/Users/fitzmx6/Documents/RPS/RPS EFFECT/Website/rpseffectonline.com/index.html",
+		"/Users/fitzmx6/Library/Application Support/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/Users/fitzmx6/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/actkindblog.com/wp-content/themes/Act Kind/style.css",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/actkindblog.com/wp-content/themes/Act Kind/index.php",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/actkindblog.com/wp-content/themes/Act Kind/footer.php",
+		"/Users/fitzmx6/Desktop/untitled folder/index.html",
+		"/Users/fitzmx6/Library/Application Support/Sublime Text 2/Packages/ColdFusion/ColdFusion.sublime-settings",
+		"/Users/fitzmx6/Desktop/night.css",
+		"/Users/fitzmx6/Desktop/day.css",
+		"/Users/fitzmx6/Desktop/index.html",
+		"/Users/fitzmx6/Library/Application Support/Sublime Text 2/Packages/User/HTML/google-jquery.sublime-snippet",
+		"/Users/fitzmx6/Documents/Web Sites/briandartistry.com/index.php",
+		"/Users/fitzmx6/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/fitzmx6/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/fitzmx6/Library/Application Support/Sublime Text 2/Packages/User/HTML/phptitle.sublime-snippet",
+		"/Users/fitzmx6/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/fitzmx6/Library/Application Support/Sublime Text 2/Packages/User/HTML/reset.sublime-snippet",
+		"/Users/fitzmx6/Documents/Web Sites/briandartistry.com/style.css",
+		"/Users/fitzmx6/Library/Application Support/Sublime Text 2/Packages/HTML/boiler.sublime-snippet",
+		"/Users/fitzmx6/Documents/Web Sites/allcreatures.com/pet_assisted_therapy.php",
+		"/Users/fitzmx6/Documents/Web Sites/portfolio/header.php",
+		"/Users/fitzmx6/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/fitzmx6/Documents/Web Sites/Evans Open/header.php",
+		"/Users/fitzmx6/Documents/Web Sites/briandartistry.com/briandartistry.sublime-project",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/evansopen.com/index.php",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/evansopen.com/assets/css/style.css",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/a1a7fa00-e1dd-4359-bef8-6aad1f1eb9cf/var/www/html/telements/includes/footer.cfm",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/actkindblog.com/wp-content/themes/Act Kind/header.php",
+		"/Users/fitzmx6/Desktop/test/header.html",
+		"/Users/fitzmx6/Desktop/test/style.css",
+		"/Users/fitzmx6/Library/Application Support/Steam/SteamApps/common/super meat boy/SuperMeatBoy.app/Contents/MacOS/buttonmap.cfg",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/a1a7fa00-e1dd-4359-bef8-6aad1f1eb9cf/var/www/html/telements/contact/index.cfm",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/a1a7fa00-e1dd-4359-bef8-6aad1f1eb9cf/var/www/html/telements/about/index.cfm",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/a1a7fa00-e1dd-4359-bef8-6aad1f1eb9cf/var/www/html/telements/earth/index.cfm",
+		"/Users/fitzmx6/Documents/Art:Web/Web add-ons/bootstrap/css/bootstrap-responsive.css",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/a1a7fa00-e1dd-4359-bef8-6aad1f1eb9cf/var/www/html/telements/Application.cfc",
+		"/Users/fitzmx6/Desktop/jQuery in 30 Days/Lesson-7 Creating & Appending Contnet/index.html",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/a1a7fa00-e1dd-4359-bef8-6aad1f1eb9cf/var/www/html/telements/js-image-slider.js",
+		"/Users/fitzmx6/Library/Application Support/Cyberduck/History/telements.com.duck",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/a1a7fa00-e1dd-4359-bef8-6aad1f1eb9cf/var/www/html/telements/clients/index.cfm",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/telements/index.php",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/telements/header.php",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/telements/style.css",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/evansopen.com/header.php",
+		"/Users/fitzmx6/Documents/Web Sites/Santa Paul/santapaulri.com/header.php",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/evansopen.com/js-image-slider.css",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/evansopen.com/js-image-slider.js",
+		"/Users/fitzmx6/Documents/Web Sites/Add-ons/jsImgSlider/themes/1/js-image-slider.css",
+		"/Users/fitzmx6/Documents/Web Sites/Add-ons/jsImgSlider/themes/1/js-image-slider.js",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/evansopen.com/style.css",
+		"/Users/fitzmx6/Library/Application Support/Cyberduck/History/coryfitzpatrick.com – FTP.duck",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/ceeb0f9b-e396-43d4-bc94-d92a5c1d8d04/public_html/evansopen/style.css",
+		"/Applications/MAMP/htdocs/telements/style.css",
+		"/Applications/MAMP/htdocs/evansopen/header.php",
+		"/Applications/MAMP/htdocs/evansopen/nav.php",
+		"/Users/fitzmx6/Desktop/columnal-0.85/code/css/build.css",
+		"/private/var/folders/pc/pfspm6xj7cddfmkzn_3qfb0w0000gn/T/a1a7fa00-e1dd-4359-bef8-6aad1f1eb9cf/var/www/html/telements/fire/index.cfm",
+		"/Users/fitzmx6/Library/Caches/TemporaryItems/header.cfm",
+		"/Applications/MAMP/htdocs/telements/header.php",
+		"/Applications/MAMP/htdocs/telements/clients.php",
+		"/Applications/MAMP/htdocs/telements/contact.php",
+		"/Applications/MAMP/htdocs/telements/services.php",
+		"/Applications/MAMP/htdocs/telements/about.php",
+		"/Applications/MAMP/htdocs/telements/work.php",
+		"/Applications/MAMP/htdocs/telements/earth.php",
+		"/Applications/MAMP/htdocs/telements/fire.php",
+		"/Applications/MAMP/htdocs/telements/air.php",
+		"/Applications/MAMP/htdocs/telements/water.php",
+		"/Applications/MAMP/htdocs/telements/index.php",
+		"/Applications/MAMP/htdocs/telements/secondary_nav.php",
+		"/Applications/MAMP/htdocs/brandartistry/index.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"favicon",
+			"select",
+			"contact",
+			"<a href",
+			"<img",
+			"transition",
+			"nav",
+			"transition: all 0.5s ease;",
+			"nav",
+			"border-bottom",
+			"-series",
+			"font-variant:small-ca",
+			"form",
+			"round",
+			"form",
+			"content",
+			"0 1px 4px",
+			".flexslider",
+			"next",
+			"images",
+			"img",
+			"_assets/",
+			"_assets",
+			"images",
+			"Of The Piper Anderson Series",
+			"piper-anderson",
+			"</li>",
+			"book-",
+			"alt=\"\">",
+			"<img",
+			"shadow",
+			"/img/",
+			"bx-viewport",
+			"back",
+			"quoteWrapper",
+			"#quoteWrapper",
+			"max-width:700px;\n        width:100%;\n        height:auto!important;",
+			"wrap",
+			"camera",
+			"png",
+			"zoom",
+			"slider",
+			"../img",
+			"img",
+			"523800",
+			"nav",
+			"Test1",
+			"corners",
+			"round",
+			"body",
+			"#d9bc6d",
+			"#f5dd89",
+			"#7e5b1f",
+			"#7e5b1",
+			"#f5dd89",
+			"#d9bc6d",
+			"5",
+			"hgroup",
+			"order",
+			"ammount",
+			"Ammount",
+			"ammount",
+			"Ammount",
+			"ammount",
+			"Ammount",
+			"ammount",
+			"Ammount",
+			"ammount",
+			"order",
+			"mode",
+			"ammount",
+			"// ",
+			"b7b7b7",
+			"hh2",
+			"			\n",
+			"strong",
+			"p class=\"art_title\"",
+			"art_text",
+			"art",
+			"<?php echo",
+			"colspan",
+			"-webkit-tap-highlight-color: rgba(0,0,0,0);",
+			"body",
+			"img-column-text",
+			"border",
+			"font-family",
+			"background",
+			"background-color",
+			"721f10",
+			".js",
+			"form-actions",
+			"form",
+			"class",
+			"coin_3",
+			"coin",
+			"achieve_3",
+			"img",
+			"73",
+			"63",
+			"coin",
+			"73",
+			"63",
+			"180",
+			"360",
+			"180",
+			"360",
+			"180",
+			"li",
+			"normal",
+			"images",
+			".controls",
+			"controls",
+			"html",
+			"hover",
+			"slides",
+			"3px",
+			"');"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "daniellestewart.com/header.php",
+					"settings":
+					{
+						"buffer_size": 5077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								681,
+								681
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "daniellestewart.com/index.php",
+					"settings":
+					{
+						"buffer_size": 5626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5386,
+								5386
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1342.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "daniellestewart.com/books.php",
+					"settings":
+					{
+						"buffer_size": 1485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1004,
+								1015
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "daniellestewart.com/book-piper-anderson.php",
+					"settings":
+					{
+						"buffer_size": 12117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8724,
+								8724
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 174.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "daniellestewart.com/book-clover.php",
+					"settings":
+					{
+						"buffer_size": 3111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1038,
+								1038
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "daniellestewart.com/_assets/css/style.css",
+					"settings":
+					{
+						"buffer_size": 25746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21021,
+								21021
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12666.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "daniellestewart.com/about.php",
+					"settings":
+					{
+						"buffer_size": 4887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 6,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 1.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index.php",
+				"index.php"
+			],
+			[
+				"brian",
+				"briandartistry.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true
+}

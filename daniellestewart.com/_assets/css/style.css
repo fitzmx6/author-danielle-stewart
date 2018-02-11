@@ -1,0 +1,1247 @@
+/*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
+
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+html {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+/*
+ * Remove text-shadow in selection highlight: h5bp.com/i
+ * These selection rule sets have to be separate.
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+/*
+ * Remove the gap between images, videos, audio and canvas and the bottom of
+ * their containers: h5bp.com/i/440
+ */
+
+audio,
+canvas,
+img,
+video {
+    vertical-align: middle;
+}
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+    resize: vertical;
+}
+
+/* ==========================================================================
+   Browse Happy prompt
+   ========================================================================== */
+
+.browsehappy {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/***********************/
+/*  Start Main Styles  */
+/***********************/
+body {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    background: url(../img/bg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#backgroundWrapper {
+    width:100%;
+    float:left;
+}
+#wrapper {
+    max-width:960px;
+    width:100%;
+    margin: 15px auto 65px auto;
+    overflow:hidden;
+}
+#itunes-ad {
+    margin:0 auto;
+    width:728px;
+}
+#header {
+    width:100%;
+    background: #f5dd89; /* Old browsers */
+    background: -moz-linear-gradient(top,  #f5dd89 0%, #dbbe6e 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f5dd89), color-stop(100%,#dbbe6e)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #f5dd89 0%,#dbbe6e 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #f5dd89 0%,#dbbe6e 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #f5dd89 0%,#dbbe6e 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #f5dd89 0%,#dbbe6e 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5dd89', endColorstr='#dbbe6e',GradientType=0 ); /* IE6-9 */
+    border-radius: 10px 10px 0 0; 
+    box-shadow: 0 3px 8px -3px #000;
+    position:relative;
+    z-index:2;
+}
+    #header h1{
+        font-size: 66px;
+        line-height: 64px;
+        font-style: italic;
+        font-weight: normal;
+        margin: 10px 0 0px 45px;
+        padding: 55px 0 20px 0;
+        color:#302614;
+    }
+    #header h1 a{
+        color:#302614;
+        text-decoration: none;
+    }
+    /*#header img{
+        width:60%;
+        margin: 50px 0 20px 60px;
+    }*/
+    .flexslider .slides img {
+        height: auto;
+    }
+        #nav {
+            width:100%;
+            height: 46px;
+            float:left;
+            background: #7e5b1f; /* Old browsers */
+            background: -moz-linear-gradient(top,  #7e5b1f 0%, #966a22 100%); /* FF3.6+ */
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7e5b1f), color-stop(100%,#966a22)); /* Chrome,Safari4+ */
+            background: -webkit-linear-gradient(top,  #7e5b1f 0%,#966a22 100%); /* Chrome10+,Safari5.1+ */
+            background: -o-linear-gradient(top,  #7e5b1f 0%,#966a22 100%); /* Opera 11.10+ */
+            background: -ms-linear-gradient(top,  #7e5b1f 0%,#966a22 100%); /* IE10+ */
+            background: linear-gradient(to bottom,  #7e5b1f 0%,#966a22 100%); /* W3C */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7e5b1f', endColorstr='#966a22',GradientType=0 ); /* IE6-9 */
+            position:relative;
+            z-index:1;
+        }   
+            #nav ul#mainNav {
+                margin-top:0;
+                margin-left: 25px;
+                display:block;
+            }
+            #nav ul ul {
+                display: none;
+            }
+                #nav ul li:hover > ul {
+                    display: block;
+                }
+            #nav ul {
+                padding: 0 20px; 
+                list-style: none;
+                position: relative;
+                display: inline-table;
+                font-size: 18px;
+            }
+                #nav ul:after {
+                    content: ""; 
+                    clear: both; 
+                    display: block;
+                }
+         #nav ul li {
+            float: left;
+            color:#fff;
+            padding: 11px 20px 10px 20px;
+        }
+        #nav ul li.piper-nav-li, #nav ul li.clover-nav-li {
+            padding:0;
+        }
+        .piper-nav, .clover-nav{
+            padding: 11px 20px 10px 20px;
+        }
+        #nav ul li.books{
+            padding: 0;
+        }
+        #nav ul a.books-padding {
+            padding: 0;
+            padding: 11px 20px 10px 20px;
+        }
+            #nav ul li:hover, #nav li.current{
+                background-color: #45310f;
+            }
+                #nav ul li:hover a {
+                    color: #fff;
+                }
+            #nav ul li a {
+                display: block; 
+                color: #fff; 
+                text-decoration: none;
+            }
+            #nav ul ul {
+                background: -moz-linear-gradient(top,  #7e5b1f 0%, #966a22 100%); /* FF3.6+ */
+                background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7e5b1f), color-stop(100%,#966a22)); /* Chrome,Safari4+ */
+                background: -webkit-linear-gradient(top,  #7e5b1f 0%,#966a22 100%); /* Chrome10+,Safari5.1+ */
+                background: -o-linear-gradient(top,  #7e5b1f 0%,#966a22 100%); /* Opera 11.10+ */
+                background: -ms-linear-gradient(top,  #7e5b1f 0%,#966a22 100%); /* IE10+ */
+                background: linear-gradient(to bottom,  #7e5b1f 0%,#966a22 100%); /* W3C */
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7e5b1f', endColorstr='#966a22',GradientType=0 ); /* IE6-9 */ 
+                border-radius: 0px; padding: 0;
+                position: absolute; top: 28px; left:110px;
+            }
+                #nav ul ul li {
+                    float: none; 
+                    border-bottom: 2px solid #78561c;
+                    position: relative;
+                }
+                .italic {
+                    font-style: italic;
+                }
+                    #nav ul ul li a {
+                        color: #fff;
+                    }   
+                        #nav ul ul li a:hover {
+                            background: #45310f;
+                        }
+            #nav ul ul ul {
+                position: absolute; left: 100%; top:-18px; 
+                width:205px;
+                border-left: 1px solid #78561c;
+            }
+    #nav select {
+        display: none;
+    }
+
+#contentWrapper {
+    width:100%;
+    background-color: #fff7db;
+    position:relative;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.home {
+    padding: 35px 0 0 0;
+}
+#widgetArea {
+    width:100%;
+    margin:0 auto;
+    margin-top:70px;
+    overflow:hidden;
+}
+    #widgetArea #social{
+        clear:both;
+        margin: 15px 54px 0 0;
+    }
+    #widgetArea #social a{
+        float: left;
+        margin-right:5px;
+    }
+    #widgetArea #social p {
+        float: left;
+        margin: 0px 10px;
+        font-size: 26px;
+        font-weight: bold;
+        color: #302614; 
+    }
+    #emailWidgetWrapper {
+        max-width:400px;
+        margin-left:55px;
+        float:left;
+        border-radius: 10px;
+        padding:20px;
+        background: rgba(126, 91, 31, 0.5);
+        box-shadow: 5px 5px 15px -5px #000;
+    }
+        #emailWidget {
+            width:320px;
+            padding:32px 20px;
+            border-radius: 10px;
+            background: #7e5b1f; /* Old browsers */
+            background: -moz-linear-gradient(top,  #7e5b1f 0%, #966a22 100%); /* FF3.6+ */
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7e5b1f), color-stop(100%,#966a22)); /* Chrome,Safari4+ */
+            background: -webkit-linear-gradient(top,  #7e5b1f 0%,#966a22 100%); /* Chrome10+,Safari5.1+ */
+            background: -o-linear-gradient(top,  #7e5b1f 0%,#966a22 100%); /* Opera 11.10+ */
+            background: -ms-linear-gradient(top,  #7e5b1f 0%,#966a22 100%); /* IE10+ */
+            background: linear-gradient(to bottom,  #7e5b1f 0%,#966a22 100%); /* W3C */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7e5b1f', endColorstr='#966a22',GradientType=0 ); /* IE6-9 */
+        }
+            #emailWidget p{
+                margin:0 0 26px 0;
+            }
+            #emailWidget .bodyText p{
+                font-style: italic;
+            }
+            .bodyText p, .af-element{
+                color:#fff;
+                font-size: 26px;
+            }
+            .af-element {
+                color:#fff;
+                font-size: 18px;
+                margin-bottom:18px;
+            }
+            .af-element:last-child {
+                margin-bottom:0px;
+            }
+            #emailWidget label{
+                margin-bottom:18px;
+            }
+            #emailWidget input{
+                border-radius:8px;
+                width:260px;
+                height: 28px;
+            }
+            #emailWidget .submit {
+                width:130px;
+                height:41px;
+                font-size:20px;
+                margin-top:18px;
+                border:0px;
+                background: #f5dd89; /* Old browsers */
+                background: -moz-linear-gradient(top,  #f5dd89 0%, #dbbe6e 100%); /* FF3.6+ */
+                background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f5dd89), color-stop(100%,#dbbe6e)); /* Chrome,Safari4+ */
+                background: -webkit-linear-gradient(top,  #f5dd89 0%,#dbbe6e 100%); /* Chrome10+,Safari5.1+ */
+                background: -o-linear-gradient(top,  #f5dd89 0%,#dbbe6e 100%); /* Opera 11.10+ */
+                background: -ms-linear-gradient(top,  #f5dd89 0%,#dbbe6e 100%); /* IE10+ */
+                background: linear-gradient(to bottom,  #f5dd89 0%,#dbbe6e 100%); /* W3C */
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5dd89', endColorstr='#dbbe6e',GradientType=0 ); /* IE6-9 */
+            }
+            .privacyPolicy {
+                font-size: 18px;
+            }
+                #emailWidget .privacyPolicy p{
+                    text-align: left;
+                    margin-bottom:0;
+                }
+                .privacyPolicy a{
+                    color:#f5dd89;
+                    text-decoration: none;
+                }
+    #facebookWidget {
+        margin:0 55px 10px 0;
+        float:right;
+        box-shadow: 2px 2px 15px -5px #000;
+        background: #fff;
+    }
+    .fb_iframe_widget {
+       display: block;
+    }
+#quoteWrapper {
+    max-width:700px;
+    width:100%;
+    margin: 20px auto;
+    color:#302614;
+    font-size: 27px;
+    overflow:hidden;
+}
+.quote {
+    border-top: 4px solid #966a22;
+    border-bottom: 4px solid #966a22;
+    padding:20px 20px;
+    margin: 40px 0 12px 0; 
+
+}
+    .quote p {
+        margin:0 auto;
+        width:270px;
+        margin-top:10px;
+        font-weight: 100;
+    }
+    blockquote {
+        margin: 0 auto;
+        display: block;
+        max-width: 700px;
+        width:100%;
+        text-align: center;
+        font-style: italic;
+    }
+#footer {
+    width:100%;
+    height:90px;
+    float:left;
+    border-radius: 0 0 10px 10px; 
+    border-top: 5px solid #563d14;
+    background: #dbbe6e; /* Old browsers */
+    background: -moz-linear-gradient(top,  #dbbe6e 0%, #f5dd89 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#dbbe6e), color-stop(100%,#f5dd89)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #dbbe6e 0%,#f5dd89 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #dbbe6e 0%,#f5dd89 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #dbbe6e 0%,#f5dd89 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #dbbe6e 0%,#f5dd89 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dbbe6e', endColorstr='#f5dd89',GradientType=0 ); /* IE6-9 */
+    color:#302614;
+}
+    #footer a{
+        text-decoration:none;
+        color:#302614;
+        font-weight: 600;
+    }
+    #info {
+        float:left;
+        margin:20px 0 0 45px;
+    }
+        #info p{
+           font-size: 18px;
+           margin:0;
+        }
+    #social {
+        float:right;
+        margin:25px 45px 0 0;
+    }
+        #social img:hover{
+            opacity:.7;
+            transition: all 0.5s ease;
+        }
+        #info img{
+            float:right;
+            margin:0 0 0 8px;
+        }
+/****************************/
+/*  Start Main Book Styles  */
+/****************************/
+.books {
+   padding: 40px 45px;
+}
+    .bookRow {
+        margin:20px 0 20px 0px;
+        width: 91%;
+    }
+    .bookRow h2{
+        font-size:40px;
+        padding-bottom:5px;
+        border-bottom: 1px solid #302614;
+    }
+    .bookRow img{
+        width: 120px;
+        margin: 10px 16px 0 0;
+        box-shadow: 0 3px 8px -3px #000;
+    }
+    .books { 
+        padding-bottom: 40px;
+    }
+    .retailers img:hover {
+        opacity:.5;
+        transition: all 0.5s ease;
+    }
+    .retailers a {
+        margin-bottom: 13px;
+        display: block;
+        float: left;
+        height:41px;
+    }
+.hsb {
+    height: 173px;
+    width: auto!important;
+}
+.bookRow a {
+    text-decoration: none;
+    background: none;
+}
+
+
+/******************************/
+/*  Start Single Book Styles  */
+/******************************/
+.bookWrapper {
+    padding: 40px 45px;
+}
+    .bookWrapper h2{
+        font-size: 40px;
+        margin: 0 0 10px 0;
+        padding: 0;
+        line-height: 40px;
+    }
+    .singleBookRow {
+        width: 100%;
+        max-width:790px;
+        float:left;
+        margin-bottom: 20px;
+    }
+        .bookTitle {
+            width:100%;
+            padding-bottom:8px;
+        }
+            .bookTitle h2 {
+                font-size: 32px;
+                line-height: 35px;
+                margin: 0;
+                font-weight: normal;
+                padding: 0;
+            }
+            .bookTitle p {
+                font-size:22px;
+                margin:0;
+            }
+        .bookContent {
+            width:100%;
+            float:left;
+            padding:35px 0;
+            border-top: 1px solid #302614;
+        }
+            .bookContent .bookImg{
+                width:35%;
+                float:left;
+            }
+                .bookContent .bookImg img{
+                    box-shadow: 0 3px 8px -3px #000;
+                    margin-bottom: 30px;
+                    max-width:250px;
+                }
+            .bookContent .bookCopy{
+                width:65%;
+                float:left;
+            }
+                .bookContent .bookCopy p{
+                    font-size: 16px;
+                    margin:0 0 30px 0;
+                }
+        .retailers {
+            width:100%;
+            float:left;
+        }
+            .retailers h3{
+                font-size:22px;
+                margin:0 0 10px 0;
+                float:left;
+            }
+            .retailers img{
+                margin-right:10px;
+                float:left;
+            }
+        .share-icon {
+            background-image: url('images/social-icons.png')!important;
+            text-indent: 99999px!important; 
+        }
+        .share-icon-googleplus {
+background-position: -218px 0;
+}
+        .addthis_toolbox {
+            margin: 5px 0 15px 0;
+        }
+.novella h2 {
+    margin-bottom:20px;
+}
+.novella .bookTitle h2 {
+    margin-bottom:6px;
+}
+.novella .bookCopy a {
+    color:#ffffff;
+    padding: 12px 25px;
+    border-radius: 5px;
+    background: #7e5b1f;
+    background: -moz-linear-gradient(top, #7e5b1f 0%, #966a22 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7e5b1f), color-stop(100%,#966a22));
+    background: -webkit-linear-gradient(top, #7e5b1f 0%,#966a22 100%);
+    background: -o-linear-gradient(top, #7e5b1f 0%,#966a22 100%);
+    background: -ms-linear-gradient(top, #7e5b1f 0%,#966a22 100%);
+    background: linear-gradient(to bottom, #7e5b1f 0%,#966a22 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7e5b1f', endColorstr='#966a22',GradientType=0 );
+    text-decoration: none
+}
+/******************************/
+/*  Start About Styles        */
+/******************************/
+.about {
+    padding:50px 0;
+}
+
+.about .bookTitle h2 {
+    padding-bottom: 5px;
+    border-bottom: 1px solid #302614;
+    font-size: 40px;
+    margin: 0 0 0 0;
+    line-height: 36px;
+    font-weight:bold;
+}
+
+.bioContent {
+    width: 48%;
+    margin-left:45px;
+    float:left;
+
+}
+.bioContent p{
+    width: 100%;
+    font-size: 1.2em;
+    line-height: 1.4;
+}
+
+.bioContent ul {
+    padding: 0;
+}
+
+.bioContent li {
+    list-style: none;
+    margin: 1em 0;
+    font-size: 1.2em;
+    line-height: 1.4;
+}
+
+.about #emailWidgetWrapper {
+    float:right;
+    margin: 0 45px 0 0;
+}
+
+.about #emailWidget {
+    width: 280px;
+}
+
+/******************************/
+/*  Start Contact Styles      */
+/******************************/
+.contact h2 {
+    padding-bottom: 5px;
+    border-bottom: 1px solid #302614;
+    font-size: 40px;
+    margin: 0 0 20px 0;
+    line-height: 36px;
+}
+.contact form.personal {
+    float:left;
+    margin: 50px 0 50px 45px;
+    font-size: 20px;
+    color:#302614;
+}
+    .contact form.personal input{
+        height:25px;
+        float:left;
+        clear:both;
+        margin-bottom:8px;
+        border-radius: 6px; 
+    }
+    .contact form.personal label, .contact form.personal p {
+        float:left;
+        clear:both;
+        margin-bottom:2px;
+        max-width: 320px;
+    }
+
+    .contact-form-error {
+        color: red;
+    }
+
+    .contact form.personal textarea {
+        float:left;
+        clear:both;
+        padding:10px;
+        margin-bottom:8px;
+        border-radius: 6px; 
+        padding: 1px;
+        background-color: white;
+        border: 2px inset;
+        border-image-source: initial;
+        border-image-slice: initial;
+        border-image-width: initial;
+        border-image-outset: initial;
+        border-image-repeat: initial;
+        -webkit-rtl-ordering: logical;
+        -webkit-user-select: text;
+        cursor: auto;
+    }
+    .contact form.personal #submit {
+        width: 130px;
+        height: 41px;
+        font-size: 20px;
+        margin-top: 18px;
+        border: 1px solid #c9af65;
+        background: #f5dd89;
+        background: -moz-linear-gradient(top, #f5dd89 0%, #dbbe6e 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f5dd89), color-stop(100%,#dbbe6e));
+        background: -webkit-linear-gradient(top, #f5dd89 0%,#dbbe6e 100%);
+        background: -o-linear-gradient(top, #f5dd89 0%,#dbbe6e 100%);
+        background: -ms-linear-gradient(top, #f5dd89 0%,#dbbe6e 100%);
+        background: linear-gradient(to bottom, #f5dd89 0%,#dbbe6e 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5dd89', endColorstr='#dbbe6e',GradientType=0 );
+    }
+
+    .g-recaptcha {
+        float: left;
+        clear: both;
+    }
+    
+.contact #emailWidget{
+    width: 280px;
+}
+.contact #emailWidgetWrapper {
+    float: right;
+    margin: 50px 45px 0 0;
+}
+/******************************/
+/*  Start Trailers Styles  */
+/******************************/
+.trailers {
+   padding: 40px 45px;
+}
+    .trailers iframe {
+        max-width: 560px!important;
+        width: 100%!important;
+    }
+    .trailers h2 {
+        font-size: 40px;
+        margin: 0 0 10px 0;
+        padding: 0;
+        line-height: 40px;
+    }
+    .trailers h2{
+        border:none;
+    }
+    .trailers .bookTitle {
+        border-bottom: 1px solid #302614;
+        margin-bottom:30px; 
+    }
+    .trailers .bookRow {
+        margin-bottom:50px; 
+    }
+/******************************/
+/*  Start Giveaway Styles  */
+/******************************/
+.giveaway img {
+    max-width:90%;
+    height:auto!important;
+}
+
+.giveaway a {
+    outline: none;
+    color: #21759b;
+    display:block;
+    margin-bottom:2px;
+}
+
+/******************************/
+/*  Start Media Styles  */
+/******************************/
+@media only screen and (min-width : 640px) and (max-width : 955px) {
+    ul#mainNav,#nav ul#mainNav  {
+        display:none;
+    }
+    #nav select {
+        margin: 13px auto;
+        display: block;
+    }
+    #emailWidgetWrapper {
+        max-width: 400px!important;
+        margin: 0 auto;
+        padding:0;
+        float:none;
+        background:none;
+        box-shadow: none;
+    }
+        #emailWidget {
+            width: 350px;
+            margin: 0 auto;
+        }
+    #facebookWidget {
+        width: 400px;
+        margin: 40px auto;
+        float:none;
+    }
+        .fb_iframe_widget iframe {
+            width:400px!important;
+        }
+    .flex-control-nav li {
+        margin: 0 20px!important;
+    }
+    .flex-direction-nav .flex-next,.flex-direction-nav .flex-prev {
+        display:none;
+    }  
+    .bioContent {
+        float:none!important;
+    }
+    .bookContent .bookCopy {
+        width: 80%;
+        float: left;
+        clear:both;
+    }
+    #widgetArea #social {
+        clear: both;
+        margin: 0 auto;
+        width: 400px;
+        float: none;
+    }
+    .about #emailWidgetWrapper {
+        max-width: 320px!important;
+        margin: 0 0 0 45px;
+        padding:0;
+        float:none;
+        background:none;
+        box-shadow: none;
+    }
+        .about #emailWidget {
+            width: 280px;
+            margin: 0 auto;
+        }
+    #nav ul ul {
+        display:none!important;
+    }
+    .contact #emailWidgetWrapper {
+        max-width: 320px!important;
+        padding:0;
+        float:none;
+        background:none;
+        box-shadow: none;
+        float: left;
+        margin: 0px 0px 0 45px;
+    }
+        .contact #emailWidget {
+            width: 280px;
+            margin: 0 auto 20px auto;
+        }
+    .contact form.personal input {
+        width:90%!important;
+    }
+    .contact form.personal textarea {
+        width:90%!important;
+    }
+
+}
+@media only screen and (max-width : 640px) {
+    #wrapper {
+        margin: 0px auto;
+    }
+    #header {
+        border-radius:0;
+    }
+    #header h1 {
+        padding-bottom: 10px;
+    }
+    #footer {
+        border-radius:0;
+    }
+    ul#mainNav,#nav ul#mainNav  {
+        display:none;
+    }
+    #nav select {
+        margin: 13px auto;
+        display: block;
+    }
+    #header img {
+        width: 75%;
+        margin: 50px 0 20px 40px;
+    }
+        #nav ul#mainNav {
+            margin-left: 0;
+        }
+            #nav ul {
+                padding: 0 9px;
+            }
+            #nav ul li {
+                padding: 11px 9px 10px 9px;
+            }
+            #nav ul ul {
+                display:none!important;
+            }
+    .flex-control-nav li {
+        margin: 0 20px!important;
+    }
+    #widgetArea #social {
+        clear: both;
+        margin: 0 auto;
+        width: 400px;
+        float: none;
+    }
+    #emailWidgetWrapper {
+        max-width: 320px!important;
+        margin: 0 auto;
+        padding:0;
+        float:none;
+        background:none;
+        box-shadow: none;
+    }
+        #emailWidget {
+            width: 280px;
+            margin: 0 auto;
+            border-radius: 0;
+        }
+    .contact h2 {
+        margin: 30px 0 20px 0;
+    }
+    .bookContent .bookCopy {
+        width: 80%;
+        float: left;
+        clear:both;
+    }
+    .bioContent {
+        float:none!important;
+    }
+    .contact #emailWidgetWrapper {
+        max-width: 320px!important;
+        margin: 30px auto;
+        padding:0;
+        float:none;
+        background:none;
+        box-shadow: none;
+    }
+        .contact #emailWidget {
+            width: 280px;
+            margin: 0 auto;
+        }
+    .about #emailWidgetWrapper {
+        max-width: 320px!important;
+        margin: 0 auto;
+        padding:0;
+        float:none;
+        background:none;
+        box-shadow: none;
+    }
+        .about #emailWidget {
+            width: 280px;
+            margin: 0 auto;
+        }
+    .contact form.personal {
+        margin: 0 auto;
+        width: 80%;
+        float:none!important;
+        overflow: auto;
+    }
+    .contact form.personal input {
+        width:90%!important;
+        float:none;
+    }
+    .contact form.personal textarea {
+        width:90%!important;
+        float:none;
+    }
+    .contact form.personal label {
+        float:none;
+    }
+    #facebookWidget {
+        width: 320px;
+        margin: 40px auto;
+        float:none;
+    }
+        .fb_iframe_widget iframe {
+            width: 320px!important;
+        }
+    .flex-direction-nav .flex-next,.flex-direction-nav .flex-prev {
+        display:none;
+    }
+    .bioContent {
+        width: 75%;
+    }
+    .trailers .bookRow {
+        margin-left:15px;
+    }
+    .bookRow img{
+        width: 70%;
+        clear:both;
+        margin:0 0 40px 0;
+        display:block;
+    }
+    .bookRow {
+       margin:20px 0 20px 45px;
+       width: 85%;
+    }
+    .bookWrapper h2,
+    .bookRow h2 {
+        max-width: 90%;
+    }
+
+    .retailers img {
+        clear: both;
+        margin-bottom: 10px;
+    }
+    #footer {
+        height:auto;
+    }
+        #info {
+            float: left;
+            clear:both;
+            margin: 20px 0 0 20px;
+        }
+        #social {
+            float: left;
+            margin: 15px 45px 20px 15px;
+        }
+}
+@media only screen and (max-width : 480px) {
+    .trailers {
+        padding: 40px 25px;
+    }
+    .books {
+        padding: 40px 0px;
+    }
+    .singleBookRow {
+        width: 90%;
+    }
+    .bookWrapper {
+        padding: 40px 25px;
+    }
+    .bookContent .bookCopy {
+        width: 90%;
+    }
+    .bookRow img {
+        width: 85%;
+    }
+    .bookRow {
+        width: 80%;
+    }
+    .bioContent {
+        margin-left: 25px;
+        width:85%;
+    }
+    #widgetArea #social p {
+        float: left;
+        margin: 0;
+        font-size: 26px;
+        font-weight: bold;
+        color: #302614;
+        clear: both;
+        overflow: hidden;
+        width: 100%;
+    }
+    #widgetArea #social a {
+        float: left;
+        margin-left: 5px;
+    }
+    #widgetArea #social {
+        margin: 0 auto;
+        float: none;
+        overflow: hidden;
+        width: 204px;
+    }
+
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Image replacement
+ */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    /* IE 6/7 fallback */
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+
+/*
+ * Hide from both screenreaders and browsers: h5bp.com/u
+ */
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+/*
+ * Hide only visually, but have it available for screenreaders: h5bp.com/v
+ */
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/*
+ * Extends the .visuallyhidden class to allow the element to be focusable
+ * when navigated to via the keyboard: h5bp.com/p
+ */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+/*
+ * Hide visually and from screenreaders, but maintain layout
+ */
+
+.invisible {
+    visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+}
+
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: h5bp.com/r
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}
+
+
+
+
+
+
+
+
